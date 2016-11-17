@@ -1,0 +1,179 @@
+body {
+  margin: 0; }
+
+.main-wrapper {
+  max-width: 1280px;
+  margin: 0 auto; }
+
+.upper-page {
+  height: 15px;
+  background-color: #664735; }
+
+h1 {
+  color: #9d9c9d;
+  font-size: 20px; }
+
+h2 {
+  font-size: 18px; }
+
+a {
+  text-decoration: none; }
+
+p, a {
+  font-size: 14px; }
+
+.head p {
+  color: #b5b4b5; }
+
+.menu a {
+  color: #9d9c9d; }
+
+.specific1 {
+  color: #6f6d6d; }
+
+.info h2 {
+  color: #9d9c9d; }
+.info p {
+  color: #b5b4b5; }
+.info a {
+  color: #664735; }
+
+.business-info {
+  color: #fff;
+  line-height: 135%; }
+  .business-info a {
+    color: #664735; }
+
+.gallery h2 {
+  color: #9d9c9d; }
+.gallery p {
+  color: #b5b4b5; }
+
+.footer {
+  color: #fff; }
+  .footer h2 {
+    font-size: 16px; }
+  .footer p {
+    font-family: arial;
+    font-size: 10px;
+    line-height: 200%; }
+
+.head {
+  float: left;
+  padding-bottom: 80px;
+  width: 100%; }
+
+.nav {
+  padding-left: 110px;
+  margin-top: 40px; }
+  .nav img {
+    float: left; }
+
+.menu {
+  background-image: url("../img/header/menu-background.png");
+  float: right;
+  height: 55px;
+  margin-right: 110px;
+  width: 520px; }
+  .menu div {
+    float: left;
+    height: 55px;
+    margin: 0 auto;
+    text-align: center; }
+
+.home {
+  width: 80px; }
+  .home img {
+    margin: 14px 33px; }
+
+.service {
+  padding: 23px; }
+
+.about-shop {
+  padding: 23px 14px; }
+
+.quality {
+  padding: 23px; }
+
+.contact-us {
+  padding: 23px 8px; }
+
+.slider {
+  clear: both;
+  float: left;
+  margin-top: 80px;
+  padding-left: 206px; }
+  .slider .slider-info {
+    float: left;
+    width: 445px; }
+  .slider .slider-img {
+    float: right; }
+
+.info {
+  clear: both;
+  float: left;
+  padding-top: 70px;
+  padding-bottom: 100px; }
+  .info div {
+    float: left;
+    padding-left: 110px;
+    text-align: center;
+    width: 290px; }
+
+.business-info {
+  clear: both;
+  float: left; }
+  .business-info img {
+    float: left;
+    height: 415px;
+    width: 650px; }
+  .business-info div {
+    float: right;
+    height: 355px;
+    width: 495px;
+    padding: 60px 80px 0 45px; }
+    .business-info div button {
+      border-radius: 5px;
+      padding: 10px 20px; }
+
+.gallery {
+  clear: both;
+  float: left;
+  margin-top: 145px;
+  text-align: center; }
+
+.gallery-intro {
+  float: left;
+  width: 100%; }
+
+.gallery-preview {
+  float: left;
+  margin-top: 38px; }
+  .gallery-preview img {
+    height: 250px;
+    width: 350px; }
+
+.footer {
+  background-image: url("../img/footer/background.jpg");
+  clear: both;
+  float: left;
+  height: 227px;
+  margin-top: 145px;
+  width: 100%; }
+  .footer div {
+    margin-left: 93px;
+    float: left;
+    font-size: 10px;
+    width: 210px; }
+  .footer img {
+    margin-right: 15px; }
+
+.head {
+  background-color: #e8e8e8; }
+
+.business-info {
+  background-color: #664735; }
+  .business-info button {
+    background-color: #eeebea; }
+
+/*# sourceMappingURL=main.css.map */

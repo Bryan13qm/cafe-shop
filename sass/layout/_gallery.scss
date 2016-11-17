@@ -1,0 +1,21 @@
+//gallery layaout
+.gallery {
+	clear: both;
+	float: left;
+	margin-top: 145px;
+	text-align: center;
+}
+
+.gallery-intro {
+	float: left;
+	width: 100%;
+}
+
+.gallery-preview {
+	float: left;
+	margin-top: 38px;
+	img {
+	height: 250px;
+	width: 350px;
+	}
+}

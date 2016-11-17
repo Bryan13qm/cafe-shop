@@ -1,0 +1,53 @@
+.head {
+	float: left;
+	padding-bottom: 80px;
+	width: 100%;
+}
+
+//nav layout
+.nav {
+	padding-left: $main-padding;
+	margin-top: 40px; 	
+
+	img {
+		float: left;
+	}
+}
+
+.menu {
+	background-image: url("../img/header/menu-background.png");
+	float: right;
+	height: 55px;
+	margin-right: $main-padding;
+	width: 520px;
+
+	div {
+		float: left;
+		height: 55px;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+
+.home {
+	width: 80px;
+	img {
+		margin: 14px 33px;
+	}
+}
+
+.service {
+	padding: 23px;
+}
+
+.about-shop {
+	padding: 23px 14px;
+}
+
+.quality {
+	padding: 23px;
+}
+
+.contact-us {
+	padding: 23px 8px;
+}

@@ -1,0 +1,72 @@
+h1 {
+	color: $tittle-color;
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+}
+
+p, a {
+	font-size: 14px;
+}
+
+//head options
+.head p {
+	color: $text-color;
+}
+
+.menu a {
+	color: $tittle-color;
+}
+
+.specific1 {
+	color: #6f6d6d;
+}
+
+//body options
+.info { 
+	h2 {
+		color: $tittle-color;
+	}
+	p {
+		color: $text-color;
+	}
+	a {
+		color: $brown;
+	}
+}
+
+.business-info {
+	color: #fff;
+	line-height: 135%; 
+	a {
+		color: $brown;
+	}
+}
+
+.gallery {
+	h2 {
+		color: $tittle-color;
+	}
+	p {
+		color: $text-color;
+	}
+}
+
+//footer options
+.footer {
+	color: #fff;
+	h2 {
+		font-size: 16px;
+	}
+	p {
+		font-family: arial;
+		font-size: 10px;
+		line-height: 200%;
+	}
+}

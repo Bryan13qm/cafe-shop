@@ -1,0 +1,15 @@
+//slider layout
+
+.slider {
+	clear: both;
+	float: left;
+	margin-top: 80px;
+	padding-left: $main-padding + 96;
+	.slider-info {
+		float: left;
+		width: 445px;
+	}
+	.slider-img {
+		float: right;	
+	}
+}

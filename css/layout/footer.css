@@ -1,0 +1,16 @@
+.footer {
+  background-image: url("../img/footer/background.jpg");
+  clear: both;
+  float: left;
+  height: 227px;
+  margin-top: 145px;
+  width: 100%; }
+  .footer div {
+    margin-left: 93px;
+    float: left;
+    font-size: 10px;
+    width: 210px; }
+  .footer img {
+    margin-right: 15px; }
+
+/*# sourceMappingURL=footer.css.map */
