@@ -4,12 +4,15 @@
 	clear: both;
 	float: left;
 	margin-top: 80px;
-	padding-left: $main-padding + 96;
+	padding-left: $main-padding + 7;
 	.slider-info {
 		float: left;
-		width: 445px;
+		width: 34.76%;
 	}
 	.slider-img {
-		float: right;	
+		float: left;
+		margin-left: 10%;
+		height: 98%;
+		width: 27%;
 	}
 }
